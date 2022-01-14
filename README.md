@@ -32,6 +32,8 @@ Find the start_stream.sh file and run `./start_stream.sh your_youtube_streamkey`
 
 If streaming doesn't start correctly, edit `start_stream.sh` so that `/dev/video1` is changed to your actual camera.
 
+If video is upside down, use `start_stream_vFlip.sh` instead.
+
 Press `ctrl+a` followed by `d` to detach.
 
 ### If you aren't satisfied with the focus/exposure
