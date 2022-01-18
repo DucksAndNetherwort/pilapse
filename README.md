@@ -1,6 +1,10 @@
 # pilapse
 Simple timelapse recorder written in python for Raspberry Pi.
 
+![image from pilapse](./SetupPics/00000000.jpg)
+
+![image of rig](./SetupPics/IMG_1232.jpeg)
+
 **Note: this has only been tested with python3 on Raspberry Pi OS Bullseye, please use these versions.**
 
 ## Setup
